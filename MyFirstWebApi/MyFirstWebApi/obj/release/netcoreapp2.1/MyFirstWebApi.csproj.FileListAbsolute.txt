@@ -1,0 +1,14 @@
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/bin/release/netcoreapp2.1/MyFirstWebApi.deps.json
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/bin/release/netcoreapp2.1/MyFirstWebApi.runtimeconfig.json
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/bin/release/netcoreapp2.1/MyFirstWebApi.runtimeconfig.dev.json
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/bin/release/netcoreapp2.1/MyFirstWebApi.dll
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/bin/release/netcoreapp2.1/MyFirstWebApi.pdb
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.csprojAssemblyReference.cache
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.csproj.CoreCompileInputs.cache
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.RazorAssemblyInfo.cache
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.RazorAssemblyInfo.cs
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.AssemblyInfoInputs.cache
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.AssemblyInfo.cs
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.RazorTargetAssemblyInfo.cache
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.dll
+/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/obj/release/netcoreapp2.1/MyFirstWebApi.pdb

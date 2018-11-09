@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6AB23541-C800-481C-8888-08C68C87869B}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstWebApi/appsettings.json">
+    <Files>
+      <File FileName="MyFirstWebApi/Controllers/TestController.cs" Line="79" Column="18" />
+      <File FileName="MyFirstWebApi/Startup.cs" Line="67" Column="13" />
+      <File FileName="MyFirstWebApi/ContextDBs/DAL.cs" Line="14" Column="60" />
+      <File FileName="MyFirstWebApi/Properties/launchSettings.json" Line="15" Column="33" />
+      <File FileName="MyFirstWebApi/appsettings.json" Line="13" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/Controllers/ValuesController.cs" relfile="MyFirstWebApi/Controllers/ValuesController.cs" line="17" column="13" />
+      <Breakpoint file="/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/Controllers/ValuesController.cs" relfile="MyFirstWebApi/Controllers/ValuesController.cs" line="24" column="11" />
+      <Breakpoint file="/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/Controllers/TestEFController.cs" relfile="MyFirstWebApi/Controllers/TestEFController.cs" line="19" column="1" />
+      <Breakpoint file="/home/paulyung/Projects/MyFirstWebApi/MyFirstWebApi/Controllers/TestController.cs" relfile="MyFirstWebApi/Controllers/TestController.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
